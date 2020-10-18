@@ -1584,8 +1584,8 @@ take precedence the ones in this file. */
 /* Type */
 
 	body {
-		background-color: #fff;
-		color: #444;
+		background-color: #007e40;
+		color: #e9edbe;
 	}
 
 	body, input, select, textarea {
@@ -1742,7 +1742,7 @@ take precedence the ones in this file. */
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #555;
+		color: #f5c63e;
 	}
 
 	blockquote {
@@ -2593,7 +2593,7 @@ take precedence the ones in this file. */
 		}
 
 	table th {
-		color: #555;
+		color: #f5c63e;
 	}
 
 	table thead {
@@ -3058,7 +3058,7 @@ take precedence the ones in this file. */
 	}
 
 	#header {
-		background: #1c1c1c;
+		background: #e9edbe;
 		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		height: 4.25em;
@@ -3080,7 +3080,7 @@ take precedence the ones in this file. */
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #fff;
+			color: #f09837;
 			font-size: 1.25em;
 			text-decoration: none;
 		}
@@ -3097,12 +3097,12 @@ take precedence the ones in this file. */
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 0.75em;
-			color: inherit;
+			color: #f09837;
 			text-decoration: none;
 		}
 
 			#header nav a:hover {
-				color: #fff;
+				color: #f09837;
 			}
 
 			#header nav a[href="#menu"] {
@@ -3189,7 +3189,7 @@ take precedence the ones in this file. */
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: #1c1c1c;
+		background: #f09837;
 		box-shadow: none;
 		color: #fff;
 		height: 100%;
@@ -3324,7 +3324,7 @@ take precedence the ones in this file. */
 		}
 
 		#banner h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
-			color: #fff;
+			color: #f5c63e;
 		}
 
 		#banner blockquote {
@@ -3384,7 +3384,7 @@ take precedence the ones in this file. */
 				#banner input[type="button"].alt:hover,
 				#banner button.alt:hover,
 				#banner .button.alt:hover {
-					background-color: rgba(255, 255, 255, 0.075);
+					background-color: rgba(240, 152, 55, 0.9);
 				}
 
 				#banner input[type="submit"].alt:active,
@@ -3632,7 +3632,7 @@ take precedence the ones in this file. */
 			order: 1;
 			width: 50%;
 			display: block;
-			background: #FFF;
+			background: #e9edbe;
 			padding: 8em;
 			text-align: right;
 			position: relative;
@@ -3768,7 +3768,7 @@ take precedence the ones in this file. */
 			}
 
 			.post.style1 a {
-				color: #1abc9c;
+				color: #007e40;
 			}
 
 			.post.style1 strong, .post.style1 b {
@@ -3824,7 +3824,7 @@ take precedence the ones in this file. */
 				.post.style1 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #1abc9c !important;
+					color: #007e40 !important;
 				}
 
 					.post.style1 input[type="submit"].alt:hover,
@@ -3870,7 +3870,7 @@ take precedence the ones in this file. */
 				}
 
 				.post.style1.invert a {
-					color: #fff;
+					color: #f5c63e;
 				}
 
 				.post.style1.invert strong, .post.style1.invert b {
@@ -3910,7 +3910,7 @@ take precedence the ones in this file. */
 					.post.style1.invert .button.alt {
 						background-color: transparent;
 						box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
-						color: #fff !important;
+						color: #f5c63e !important;
 					}
 
 						.post.style1.invert input[type="submit"].alt:hover,
@@ -3947,7 +3947,7 @@ take precedence the ones in this file. */
 					}
 
 				.post.style1.invert .content {
-					background: #1abc9c;
+					background: #007e40;
 				}
 
 					.post.style1.invert .content header p {
@@ -3982,7 +3982,7 @@ take precedence the ones in this file. */
 			}
 
 			.post.style2 a {
-				color: #3498db;
+				color: #007e40;
 			}
 
 			.post.style2 strong, .post.style2 b {
@@ -4037,8 +4037,8 @@ take precedence the ones in this file. */
 				.post.style2 button.alt,
 				.post.style2 .button.alt {
 					background-color: transparent;
-					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #3498db !important;
+					box-shadow: inset 0 0 0 2px rgba(0, 126, 64, 0.25);
+					color: #007e40 !important;
 				}
 
 					.post.style2 input[type="submit"].alt:hover,
@@ -4084,7 +4084,7 @@ take precedence the ones in this file. */
 				}
 
 				.post.style2.invert a {
-					color: #fff;
+					color: #f5c63e;
 				}
 
 				.post.style2.invert strong, .post.style2.invert b {
@@ -4177,7 +4177,7 @@ take precedence the ones in this file. */
 					}
 
 				.post.style2.invert .content {
-					background: #3498db;
+					background: #007e40;
 				}
 
 					.post.style2.invert .content header p {
@@ -4519,7 +4519,7 @@ take precedence the ones in this file. */
 
 	#footer {
 		padding: 4em 0 2em 0;
-		background: #1c1c1c;
+		background: #e9edbe;
 		text-align: center;
 	}
 
@@ -4532,7 +4532,7 @@ take precedence the ones in this file. */
 			}
 
 		#footer .copyright {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(240, 152, 55, 0.9);
 			font-size: 0.9em;
 			margin: 0 0 2em 0;
 			padding: 0;
