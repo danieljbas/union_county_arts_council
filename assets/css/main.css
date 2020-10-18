@@ -1584,8 +1584,8 @@ take precedence the ones in this file. */
 /* Type */
 
 	body {
-		background-color: #007e40;
-		color: #e9edbe;
+		background-color: #e9edbe;
+		color: #1c1c1c;
 	}
 
 	body, input, select, textarea {
@@ -1742,7 +1742,7 @@ take precedence the ones in this file. */
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #f5c63e;
+		color: #007e40;
 	}
 
 	blockquote {
@@ -3058,7 +3058,7 @@ take precedence the ones in this file. */
 	}
 
 	#header {
-		background: #e9edbe;
+		background: #007e40;
 		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		height: 4.25em;
@@ -3080,7 +3080,7 @@ take precedence the ones in this file. */
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #f09837;
+			color: #f5c63e;
 			font-size: 1.25em;
 			text-decoration: none;
 		}
@@ -3097,12 +3097,12 @@ take precedence the ones in this file. */
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 0.75em;
-			color: #f09837;
+			color: #f5c63e;
 			text-decoration: none;
 		}
 
 			#header nav a:hover {
-				color: #f09837;
+				color: #f5c63e;
 			}
 
 			#header nav a[href="#menu"] {
@@ -4519,7 +4519,7 @@ take precedence the ones in this file. */
 
 	#footer {
 		padding: 4em 0 2em 0;
-		background: #e9edbe;
+		background: #007e40;
 		text-align: center;
 	}
 
@@ -4532,7 +4532,7 @@ take precedence the ones in this file. */
 			}
 
 		#footer .copyright {
-			color: rgba(240, 152, 55, 0.9);
+			color: rgba(245, 198, 62, 0.9);
 			font-size: 0.9em;
 			margin: 0 0 2em 0;
 			padding: 0;
